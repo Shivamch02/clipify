@@ -3,7 +3,7 @@ export const Hero = () => {
   return (
     <div className="pb-10 h-screen">
       <div className="flex justify-center py-10 flex-col items-center xl:px-48 lg:px-24 md:px-10 px-4">
-        <button className="bg-gray-700 rounded-full text-gray-300 hover:bg-gray-600 sm:px-4 px-2 py-1">
+        <button className="bg-gray-900 rounded-full text-gray-300 hover:bg-gray-950 sm:px-4 px-2 py-1">
           Universal video downloader ✨
         </button>
         <div className="xl:text-7xl lg:text-6xl md:text-5xl text-3xl font-bold text-white text-center mt-10">
